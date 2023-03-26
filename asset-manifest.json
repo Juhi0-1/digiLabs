@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digiLabs/static/css/main.ef7b6964.css",
+    "main.js": "/digiLabs/static/js/main.0b7bb2b5.js",
+    "static/js/787.2ad0e834.chunk.js": "/digiLabs/static/js/787.2ad0e834.chunk.js",
+    "static/media/Banner.png": "/digiLabs/static/media/Banner.437cbd405256554848ff.png",
+    "index.html": "/digiLabs/index.html",
+    "main.ef7b6964.css.map": "/digiLabs/static/css/main.ef7b6964.css.map",
+    "main.0b7bb2b5.js.map": "/digiLabs/static/js/main.0b7bb2b5.js.map",
+    "787.2ad0e834.chunk.js.map": "/digiLabs/static/js/787.2ad0e834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7b6964.css",
+    "static/js/main.0b7bb2b5.js"
+  ]
+}
